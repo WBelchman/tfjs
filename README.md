@@ -1,3 +1,8 @@
+# Fork notes
+This fork adds support for the resetAfter option in keras GRU layers.
+
+Fixes bias shape mismatch mentioned in [#2442 ](https://github.com/tensorflow/tfjs/issues/2442#issuecomment-566031605) and [#2437](https://github.com/tensorflow/tfjs/issues/2437#issue-528918997).
+
 # TensorFlow.js
 
 TensorFlow.js is an open-source hardware-accelerated JavaScript library for
